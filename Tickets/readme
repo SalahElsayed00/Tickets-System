@@ -1,10 +1,10 @@
 # Ticket System
 
-This is a simple ticket system implemented using .NET Core, Angular, and SQL Server.
+This simple ticket system is implemented using .NET Core and SQL Server.
 
 ## Features
 
-- Create a ticket: Navigate to the create ticket page and fill in the required information.
+- Create a ticket: Navigate to the Create Ticket page and fill in the required information.
 - List tickets: View a paginated list of tickets with various properties.
 - Handle tickets: Click on the handle button to mark a ticket as handled.
 - Automatic handling: Tickets are automatically marked as handled after 60 minutes.
@@ -32,4 +32,4 @@ This is a simple ticket system implemented using .NET Core, Angular, and SQL Ser
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ticket-system.git
+   git clone https://github.com/SalahElsayed00/Tickets-System
